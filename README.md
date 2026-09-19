@@ -54,6 +54,7 @@ Results are saved to the text/ directory in JSON Lines format:
 
 ## Project Structure
 
+```text
 mplug-owl3-batch-image-captioning
 │
 ├── data_with_blip/
@@ -69,6 +70,7 @@ mplug-owl3-batch-image-captioning
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+```
 
 ## License
 
