@@ -1,0 +1,11 @@
+torch
+torchvision
+transformers==4.49.0
+accelerate
+bitsandbytes
+pillow
+decord
+einops
+icecream
+legacy-cgi
+hf-xet
